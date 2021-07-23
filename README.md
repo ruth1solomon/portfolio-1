@@ -1,1 +1,5 @@
-# portfolio-1
+# My-Personal-Website
+
+### Authors
+> Ruth Solomon
+
